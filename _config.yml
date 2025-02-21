@@ -20,10 +20,8 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
-description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+title: Indie Press and Small Publishers Web Ring
+description: >- temporary description
 
 baseurl: /webring-starter # the subpath of your site, e.g. /blog
 url: https://githubusername.github.io
