@@ -1,16 +1,16 @@
 {
   "sites": [
     {
-      "name": "Bill Hunt",
-      "url": "https://billhunt.dev/",
-      "author": "Bill Hunt <hello@billhunt.email>",
-      "rss": "https://billhunt.dev/feed.xml"
+      "name": "Duck Prints Press",
+      "url": "https://duckprintspress.com/",
+      "author": "Claire Houck <info@duckprintspress.com>",
+      "rss": null
     },
     {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
+      "name": "From Beyond Press",
+      "url": "https://frombeyondpress.com",
+      "author": null,
+      "rss": null
     }
   ]
 }
